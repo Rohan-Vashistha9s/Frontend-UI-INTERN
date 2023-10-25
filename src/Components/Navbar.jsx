@@ -36,7 +36,7 @@ const Navbar = () => {
           }}
           className="onebtn"
         >
-          Login
+          Fees
         </button>
         <button
           style={{
@@ -44,7 +44,7 @@ const Navbar = () => {
             background: bgColor ? "#0c1727" : "white",
           }}
         >
-          Register
+          Trade Now
         </button>
       </div>
     </div>

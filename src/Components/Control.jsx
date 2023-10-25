@@ -52,7 +52,7 @@ const Control = () => {
             <div className="control" key={index}>
               <div className="control__icon">
                 <control.icon />
-                <p>hi </p>
+                <p>PIC</p>
               </div>
 
               <div className="control__text__content">

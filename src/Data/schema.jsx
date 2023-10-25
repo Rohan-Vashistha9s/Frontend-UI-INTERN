@@ -3,16 +3,16 @@ import { SiGooglepodcasts } from "react-icons/si";
 
 export const routes = [
   {
-    name: "Home",
+    name: "Career",
     path: "#",
   },
   {
-    name: "How it works",
-    path: "#how",
+    name: "Academy",
+    path: "#Academy",
   },
   {
-    name: "About Us",
-    path: "#about",
+    name: "Leaderboard",
+    path: "#Leaderboard",
   },
   {
     name: "Contact Us",

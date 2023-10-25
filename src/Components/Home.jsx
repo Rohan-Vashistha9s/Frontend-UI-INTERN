@@ -43,7 +43,7 @@ const Home = () => {
         ref={ref}
         className="home__text"
       >
-        <motion.h1 variants={item}>It’s time to trade,</motion.h1>
+        <motion.h1 variants={item}>It's time to trade,</motion.h1>
         <motion.h1 variants={item}>the future.</motion.h1>
       </motion.div>
       <div className="ticks__container">
